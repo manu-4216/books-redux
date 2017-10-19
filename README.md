@@ -1,4 +1,5 @@
-Modern React with Redux - project 1 - Book list
+**Modern React with Redux** - project 1 - Book list
 
-https://www.udemy.com/react-redux/
+MOOC: https://www.udemy.com/react-redux/
 
+*Key words: redux*
